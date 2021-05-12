@@ -46,3 +46,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }   
+.col-mb-3{
+    width: 25%;
+}
+.col-mb-6{
+    width: 50%;
+}
+[class*="col-"]{
+
+}
